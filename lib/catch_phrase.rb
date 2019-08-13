@@ -1,5 +1,5 @@
-phrase
+phrase = ""
 
-def catch_phrase
+def catch_phrase(phrase)
   p phrase
 end
